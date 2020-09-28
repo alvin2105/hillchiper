@@ -11,18 +11,21 @@
 Hill Cipher merupakan salah satu algoritma kriptografi kunci simetris yang memiliki beberapa kelebihan dalam enkripsi data. Untuk menghindari matrik kunci yang tidak invertible, matrik kunci dibangkitkan menggunakan koefisien binomial newton.  Proses enkripsi dan deskripsi menggunakan kunci yang sama, plaintext dapat menggunakan media gambar atau text.
 
 ### Rumus Hill Chiper
-> Enkripsi
+-  Enkripsi
 C = P * K
-> Dekripsi
+
+-  Dekripsi
 P = C * K (inverse)
 
 Ket:
 
-C = Matriks Chiperteks
-K = Matriks Kunci
-P = Matriks Plainteks
+ C = Matriks Chiperteks
 
-## Berikut adalah Screenshot program
+ K = Matriks Kunci
+
+ P = Matriks Plainteks
+
+### Berikut adalah Screenshot program
 
 > Enkripsi
 ![enkripsi-test](https://user-images.githubusercontent.com/47733168/94436752-04779e80-01c7-11eb-813a-b8437b22c65b.jpg)
